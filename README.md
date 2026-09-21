@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  📄 <a href="./marmik_vyas_resume.pdf"><b>VIEW / DOWNLOAD RESUME</b></a>
+  <a href="./marmik_vyas_resume.pdf"><b>VIEW / DOWNLOAD RESUME</b></a>
 </p>
 
 ---
