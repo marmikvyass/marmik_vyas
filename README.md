@@ -219,13 +219,6 @@ I enjoy working at the intersection of **software engineering, data and AI**, es
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marmikvyass/marmikvyass/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
-
----
 
 ## Connect With Me
 
