@@ -66,13 +66,13 @@ currently_learning:
 ### < Languages />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,sql" />
 </p>
 
 ### < Frontend />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,scss,css" />
 </p>
 
 ### < Backend />
