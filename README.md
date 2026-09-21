@@ -72,7 +72,7 @@ currently_learning:
 ### < Frontend />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,scss,css" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,tailwind,bootstrap,html,scss,css" />
 </p>
 
 ### < Backend />
