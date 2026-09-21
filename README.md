@@ -78,7 +78,7 @@ currently_learning:
 ### < Backend />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
 </p>
 
 ### < AI / ML / GenAI />
@@ -108,10 +108,6 @@ currently_learning:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
-
-### < Data Analytics />
-
-**Pandas • NumPy • Plotly • Power BI • DAX • SQL • Statistics • Time-Series Analysis**
 
 ### < DevOps & Tools />
 
