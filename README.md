@@ -1,4 +1,4 @@
-# Hi 👋, I'm Marmik Vyas
+# Hi 👋, I'm Marmik Vyas!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Marmik%20Vyas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GenAI%20%7C%20Python%20%7C%20Backend&descAlignY=60&descSize=18" />
